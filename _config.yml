@@ -12,7 +12,7 @@ title                    : "Srujanika Rajalaxmi"
 title_separator          : "-"
 name                     : &name "Srujanika Rajalaxmi"
 description              : &description "Graduate Student at UTSW"
-url                      : https://srujanikar.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://SrujanikaR.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : "SrujanikaR/SrujanikaR.github.io"
 
